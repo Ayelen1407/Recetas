@@ -1,2 +1,2 @@
 # Recetas
-Listado de recetas de cocina
+Listado de recetas de cocina.
